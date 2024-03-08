@@ -1,4 +1,4 @@
-### Olá, me chamo Jefferson! 👋
+### Olá, me chamo Jefferson!
 
 - 🎴 Estou cursando Ciências da Computação;
 - 🔭 Atualmente trabalho como assistente técnico;
