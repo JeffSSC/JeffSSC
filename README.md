@@ -9,5 +9,5 @@
 </a>
 
 <a href="https://github.com/JeffSSC/JeffSSC/blob/main/README.md">
-   <img height=100 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffSSC&layout=pie" />
+   <img height=100 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffSSC&layout=pie" />
 </a>
