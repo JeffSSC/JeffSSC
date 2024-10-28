@@ -1,7 +1,6 @@
 ### Olá, me chamo Jefferson!
 
 - 🎴 Estou cursando Ciências da Computação;
-- 🔭 Atualmente trabalho como assistente técnico;
 - 🌱 Atualmente estou estudando JavaScript.
 
 <a href="https://github.com/JeffSSC/JeffSSC/blob/main/README.md">
