@@ -1,7 +1,6 @@
-### Olá, me chamo Jefferson!
+### Hi, my name is Jefferson!
 
-- 🎴 Estou cursando Ciências da Computação;
-- 🌱 Atualmente estou estudando JavaScript.
+- 🎴 Computer Science Student;
 
 <a href="https://github.com/JeffSSC/JeffSSC/blob/main/README.md">
   <img height=190 align="left" src="https://github-readme-stats.vercel.app/api?username=JeffSSC&show_icons=true&theme=synthwave" />
