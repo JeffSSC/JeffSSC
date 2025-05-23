@@ -8,7 +8,7 @@
 
 ### 🛠️ Languages & Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,docker,vscode,nodejs,aws,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,nodejs,react,git,docker,aws,postman,figma)](https://skillicons.dev)
 
 ### 📊 GitHub Stats:
 
