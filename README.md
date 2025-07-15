@@ -13,8 +13,9 @@
 ### 📊 GitHub Stats:
 
 <a href="https://github.com/JeffSSC/JeffSSC/blob/main/README.md">
-  <img height=190 align="left" src="https://github-readme-stats.vercel.app/api?username=JeffSSC&show_icons=true&theme=synthwave" />
+  <img height=190 align="left" src="https://github-readme-stats.vercel.app/api?username=JeffSSC&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/JeffSSC/JeffSSC/blob/main/README.md">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JeffSSC&show_icons=true&theme=radical&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffSSC&hide_progress=true&theme=radical" alt="Languages" />
 </a>
+
