@@ -4,7 +4,8 @@
 - 🌇 Living in Brazil, Joinville/SC;
 - 🚀 Looking for AWS Cloud Practitioner Certificate;
 - 📬 E-mail: jeff.silva.caires@gmail.com;
-- 🌐 [Linkedin](https://www.linkedin.com/in/jefferson-silva-caires-8b2429172/)
+- 🌐 [Linkedin](https://www.linkedin.com/in/jefferson-silva-caires-8b2429172/);
+- 📝 [Portfólio](https://www.jeffsc.com.br/);
 
 ### 🛠️ Languages & Tools:
 
