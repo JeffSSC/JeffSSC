@@ -2,7 +2,7 @@
 
 - 🎴 Computer Science Student at Unisociesc;
 - 🌇 Living in Brazil, Joinville/SC;
-- 🚀 Looking for AWS AI Practitioner Certificate;
+- 🚀 Looking for AZ-900 Certificate;
 - 📬 E-mail: jeff.silva.caires@gmail.com;
 - 🌐 [Linkedin](https://www.linkedin.com/in/jefferson-silva-caires-8b2429172/);
 - 📝 [Portfólio](https://www.jeffsc.com.br/);
