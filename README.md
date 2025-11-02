@@ -7,7 +7,7 @@
 - 🎓 Estudante de Ciências da Computação - Bacharelado;
 - 🌇 Joinville/SC;
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,python,django,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,vue,javascript,python,django,aws)](https://skillicons.dev)
 
 <p align="left">
   <a href="mailto:jeff.silva.caires@gmail.com" target="_blank" title="Gmail">
