@@ -30,11 +30,18 @@
   
   <br>
   <p>
-    <a target="_blank" href="https://github.com/JeffSSC/code-storm" title="Code Storm: Gamified Quiz Platform"><img alt="Code Storm" height="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></a>
-    <a target="_blank" href="#" title="Python Backend Expert"><img alt="Python" height="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
-    <a target="_blank" href="#" title="Vue.js Frontend"><img alt="Vue" height="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></a>
-    <a target="_blank" href="#" title="AWS Certified"><img alt="AWS" height="52" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></a>
-    <a target="_blank" href="#" title="TypeScript Mastery"><img alt="TypeScript" height="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></a>
+    <a target="_blank" href="#" title="Python"><img alt="Python" height="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
+    <a target="_blank" href="#" title="TypeScript"><img alt="TypeScript" height="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></a>
+    <a target="_blank" href="#" title="Next.js"><img alt="Next.js" height="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"></a>
+    <a target="_blank" href="#" title="React"><img alt="React" height="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
+    <a target="_blank" href="#" title="FastAPI"><img alt="FastAPI" height="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"></a>
+    <a target="_blank" href="#" title="Tailwind CSS"><img alt="Tailwind CSS" height="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"></a>
+    <a target="_blank" href="#" title="PostgreSQL"><img alt="PostgreSQL" height="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></a>
+    <a target="_blank" href="#" title="Redis"><img alt="Redis" height="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"></a>
+    <a target="_blank" href="#" title="Docker"><img alt="Docker" height="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></a>
+    <a target="_blank" href="#" title="Google Cloud"><img alt="Google Cloud" height="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"></a>
+    <a target="_blank" href="#" title="Vue.js"><img alt="Vue.js" height="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></a>
+    <a target="_blank" href="#" title="Node.js"><img alt="Node.js" height="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></a>
   </p>
   <br>
   <br>
