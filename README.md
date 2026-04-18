@@ -2,7 +2,7 @@
 
 Full-Stack Developer based in Brazil
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeffSSC&show_icons=true&theme=transparent)
+![JeffSSC's Stats](https://github-readme-stats.vercel.app/api?username=JeffSSC&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![JeffSSC's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JeffSSC&theme=vue-dark&hide_border=true)
 
 ---
