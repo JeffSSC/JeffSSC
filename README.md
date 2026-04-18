@@ -1,20 +1,41 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+# Jefferson Silva Caires
 
+Full-Stack Developer based in Brazil
 
-<p>Bem vindo ao meu github, meu nome é Jefferson!</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeffSSC&show_icons=true&theme=transparent)
 
-- ☁️ 2x Certificações AWS (Cloud Practitioner e AI Practitioner);
-- 🎓 Estudante de Ciências da Computação - Bacharelado;
-- 🌇 Joinville/SC;
+---
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,vue,javascript,python,django,aws)](https://skillicons.dev)
+### 🛠 Tech Stack
 
-<p align="left">
-  <a href="mailto:jeff.silva.caires@gmail.com" target="_blank" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=jeff.silva.caires@gmail.com" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/jefferson-caires/" target="_blank" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jefferson-caires/" alt="LinkedIn"/></a>
-  <a href="https://wa.me/5547991158071" target="_blank" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5547991158071" alt="WhatsApp"/></a>
-</p>
+- 💻 TypeScript / JavaScript / Python / C#
+- 🌐 Vue.js / React / Django
+- ☁️ AWS (Cloud Practitioner + AI Practitioner)
 
+---
+
+### 📫 Connect
+
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jeff.silva.caires@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-caires/)
+[![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=firefox&logoColor=white)](https://www.jeffsc.com.br)
+
+---
+
+### ⭐ Featured Projects
+
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [Ulife-Game](https://github.com/JeffSSC/Ulife-Game) | College game project | 1 ⭐ |
+| [hospify](https://github.com/JeffSSC/hospify) | Medical management system | - |
+| [portfolio](https://github.com/JeffSSC/portfolio) | Portfolio site | - |
+
+---
+
+### 📊 Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffSSC&layout=compact&theme=transparent)
+
+---
+
+*Built with passion for coding*
