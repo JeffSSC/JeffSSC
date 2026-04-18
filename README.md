@@ -1,34 +1,66 @@
-# Jefferson Silva Caires
+<div align="center">
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <a href="https://www.jeffsc.com.br">
+    <img width="80" height="80" src="https://avatars.githubusercontent.com/u/74038190?v=4" style="border-radius: 50%;" />
+  </a>
+  <br>
+  <p align="center">
+    <a href="mailto:jeff.silva.caires@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://www.linkedin.com/in/jefferson-caires/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
+  Hi, I'm <strong>Jefferson</strong>, Full-Stack Software Engineer from Joinville, Brazil.
+  <p>
+    <a href="https://www.jeffsc.com.br">Website</a> • 
+    <a href="https://www.linkedin.com/in/jefferson-caires/">LinkedIn</a> • 
+    <a href="mailto:jeff.silva.caires@gmail.com">E-Mail</a> • 
+    <a href="https://github.com/JeffSSC?tab=repositories">Projects</a>
+  </p>
+  <br>
+  <br>
+  
+  ✦ Currently building at <strong>Peekerton</strong> ✦
+  
+  <br>
+  <p>
+    <a target="_blank" href="https://github.com/JeffSSC/code-storm" title="Code Storm: Gamified Quiz Platform"><img alt="Code Storm" height="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></a>
+    <a target="_blank" href="#" title="Python Backend Expert"><img alt="Python" height="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
+    <a target="_blank" href="#" title="Vue.js Frontend"><img alt="Vue" height="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></a>
+    <a target="_blank" href="#" title="AWS Certified"><img alt="AWS" height="52" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></a>
+    <a target="_blank" href="#" title="TypeScript Mastery"><img alt="TypeScript" height="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></a>
+  </p>
+  <br>
+  <br>
+</div>
 
-Full-Stack Developer based in Brazil
+<h3 align="center">Stats & Contributions</h3>
 
-![JeffSSC's Stats](https://github-readme-stats.vercel.app/api?username=JeffSSC&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![JeffSSC's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JeffSSC&theme=vue-dark&hide_border=true)
+<p align="center">
+  <a href="https://www.jeffsc.com.br/"><img height="140" src="https://github-readme-stats.vercel.app/api?username=JeffSSC&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" /></a>
+  <a href="https://www.jeffsc.com.br/"><img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffSSC&layout=compact&theme=vue-dark&hide_border=true" /></a>
+</p>
 
----
+<div align="center">
+    <br />
+    <a href="https://www.jeffsc.com.br"><kbd> Portfolio </kbd></a> 
+    <a href="https://www.linkedin.com/in/jefferson-caires/"><kbd> LinkedIn </kbd></a> 
+    <a href="mailto:jeff.silva.caires@gmail.com"><kbd> Contact Me </kbd></a>
+</div>
 
-### 🛠 Tech Stack
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="right" width="200">
-
-- 💻 TypeScript / JavaScript / Python
-- 🌐 Vue.js / React / Django
-- ☁️ AWS / GCP
-
----
-
-### 📫 Connect
-
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jeff.silva.caires@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-caires/)
-[![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=firefox&logoColor=white)](https://www.jeffsc.com.br)
-
----
-
-### 📊 Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffSSC&layout=compact&theme=transparent)
-
----
-
-*Built with passion for coding*
+<br />
+<div align="right">
+ <table>
+     <tr>
+         <td>
+           🚀 &nbsp;&nbsp;Software Engineer I @ Peekerton
+         </td>
+     </tr>
+ </table>
+</div>
