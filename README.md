@@ -5,7 +5,7 @@
   <br>
   <br>
   <a href="https://www.jeffsc.com.br">
-    <img width="80" height="80" src="https://avatars.githubusercontent.com/u/74038190?v=4" style="border-radius: 50%;" />
+    <img width="80" height="80" src="https://avatars.githubusercontent.com/u/112022257?v=4" style="border-radius: 50%;" />
   </a>
   <br>
   <p align="center"><a href="mailto:jeff.silva.caires@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;<a href="https://www.linkedin.com/in/jefferson-caires/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></p>
