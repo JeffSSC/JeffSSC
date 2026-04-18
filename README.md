@@ -8,14 +8,7 @@
     <img width="80" height="80" src="https://avatars.githubusercontent.com/u/74038190?v=4" style="border-radius: 50%;" />
   </a>
   <br>
-  <p align="center">
-    <a href="mailto:jeff.silva.caires@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-    <a href="https://www.linkedin.com/in/jefferson-caires/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </p>
+  <p align="center"><a href="mailto:jeff.silva.caires@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;<a href="https://www.linkedin.com/in/jefferson-caires/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></p>
   Hi, I'm <strong>Jefferson</strong>, Full-Stack Software Engineer from Joinville, Brazil.
   <p>
     <a href="https://www.jeffsc.com.br">Website</a> • 
@@ -49,10 +42,7 @@
 
 <h3 align="center">Stats & Contributions</h3>
 
-<p align="center">
-  <a href="https://www.jeffsc.com.br/"><img height="140" src="https://github-readme-stats.vercel.app/api?username=JeffSSC&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" /></a>
-  <a href="https://www.jeffsc.com.br/"><img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffSSC&layout=compact&theme=vue-dark&hide_border=true" /></a>
-</p>
+<p align="center"><a href="https://www.jeffsc.com.br/"><img height="140" src="https://github-readme-stats.vercel.app/api?username=JeffSSC&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" /></a>&nbsp;<a href="https://www.jeffsc.com.br/"><img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffSSC&layout=compact&theme=vue-dark&hide_border=true" /></a></p>
 
 <div align="center">
     <br />
