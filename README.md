@@ -42,7 +42,9 @@
 
 <h3 align="center">Stats & Contributions</h3>
 
-<p align="center"><a href="https://www.jeffsc.com.br/"><img height="140" src="https://github-readme-stats.vercel.app/api?username=JeffSSC&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" /></a>&nbsp;<a href="https://www.jeffsc.com.br/"><img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffSSC&layout=compact&theme=vue-dark&hide_border=true" /></a></p>
+<p align="center"><a href="https://www.jeffsc.com.br/">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeffSSC&theme=react-dark" alt="GitHub Activity Graph" />
+</a></p>
 
 <div align="center">
     <br />
